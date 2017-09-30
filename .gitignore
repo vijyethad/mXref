@@ -8,6 +8,7 @@ build
 
 # misc
 .DS_Store
+.idea
 npm-debug.log
 
 # typings definitions (used with VS Code)
