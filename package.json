@@ -2,7 +2,7 @@
   "name": "mXref",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://vijyethad.github.io/mxref",
+  "homepage": "https://vijyethad.github.io/mXref",
   "devDependencies": {
     "autoprefixer": "6.3.7",
     "babel-core": "6.11.4",
